@@ -2,7 +2,7 @@
 
 ![Theme Screenshot](screenshot.png)
 
-You can find detailed in instructions on how to use this config on my website [physic.li/PLACEHOLDER](https://physic.li/blog/)
+You can find detailed in instructions on how to use this config on my website [physic.li](https://physic.li/blog/i3config)
 
 Detailed instructions on how to clone a/this repository are found [here](https://physic.li/PLACEHOLDER)
 
