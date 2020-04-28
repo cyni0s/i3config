@@ -12,8 +12,8 @@ Detailed instructions on how to clone a/this repository are found [here](https:/
 
 Commands:
 
-`rm -rf /home/($whoami)/.config/i3`
+`rm -rf /home/$(whoami)/.config/i3`
 
-`git clone PLACEHOLDER /home/($whoami)/.config/i3`
+`git clone https://github.com/cyni0s/i3config.git /home/$(whoami)/.config/i3`
 
-`sed -i 's/cyni0s/($whoami)/g' /home/($whoami)/.config/i3/config`
+`sed -i 's/cyni0s/$(whoami)/g' /home/$(whoami)/.config/i3/config`
