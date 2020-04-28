@@ -1,6 +1,6 @@
 ## cyni0s´ i3config for Laptops and PCs
 
-![Theme Screenshot](theme-screenshot.png)
+![Theme Screenshot](screenshot.png)
 
 You can find detailed in instructions on how to use this config on my website [physic.li/PLACEHOLDER](https://physic.li/blog/)
 
